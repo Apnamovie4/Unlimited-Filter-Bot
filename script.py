@@ -1,9 +1,10 @@
 class Script(object):
 
-    START_MSG = """<b>Hy {},
+    START_MSG = """<b>Hi✋ {} you are welcome💖,
 
 I'm an advanced filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
+🧑‍🚒Creater👉 @TopAllMovie
 
 See <i>/help</i> for commands and more details.</b>
 """
@@ -48,15 +49,15 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @TroJanzHEX</b>
+<b>© @TopAllMovie</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>My Name : Riya Kumari</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @TopAllMovie    
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :</b> <code>English</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
